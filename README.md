@@ -42,6 +42,10 @@ This example will display two elements that will be provided a walkthrough for a
 </html>
 ```
 
+## Live demo
+
+[Click here](https://futsy.github.io/overlayjs/index.html).
+
 ## Note
 
 Subsequent calls to the `enableOverlay()` function require a call to `clear()`. Example:
